@@ -1,14 +1,7 @@
 # Gaining The Competitive Edge
 ### Analyzing the Importance and Potential Success Drivers of Political Marketing Strategies Regarding the 2021 Federal Elections in Germany
 
-Master Thesis Marketing Research
-
-Master Program – M.Sc. Marketing Analytics
-
-Marketing Department Tilburg School of Economics and Management
-
-Tilburg University (TiU)
-
+Philipp Kläger
 
 ![background](https://user-images.githubusercontent.com/80161087/147277170-8121893c-f3ac-42e8-9657-7f824ad88f57.png)
 
@@ -59,6 +52,14 @@ Figure 2: Topic-specific tweet stances for the topics Corona, Environment and Di
 
 ## Contributors
 Philipp Kläger
+
+Master Thesis Marketing Research
+
+Master Program – M.Sc. Marketing Analytics
+
+Marketing Department Tilburg School of Economics and Management
+
+Tilburg University (TiU)
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
