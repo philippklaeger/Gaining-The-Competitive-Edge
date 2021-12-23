@@ -44,10 +44,8 @@ Figure 2: Topic-specific tweet stances for the topics Corona, Environment and Di
 	- Data Manipulation:	dplyr, data.table, stringr, lubridate, tidytext
 	- Text Analysis:	syuzhet, quanteda, tm, manifestoR
 	- Visualization:	modelsummary, ggplot2, ggpubr, ggdendro, wordcloud, wordcloud2
-- ManifestoR API Key:
-	https://manifesto-project.wzb.eu/
-- 2019 Chapel Hill Expert Hill
-	https://www.chesdata.eu/2019-chapel-hill-expert-survey
+- ManifestoR API Key:		https://manifesto-project.wzb.eu/
+- 2019 Chapel Hill Expert Hill:	https://www.chesdata.eu/2019-chapel-hill-expert-survey
 
 ## Notes
 - reproducibility: encoding readers must be considerate of German special characters (e.g., ä) to attain an undistorted display of the data.
