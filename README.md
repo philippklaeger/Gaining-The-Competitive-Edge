@@ -40,12 +40,12 @@ Figure 2: Topic-specific tweet stances for the topics Corona, Environment and Di
 ## Dependencies
 - R 
 - R packages:
-	- Data Collection:	rtweet
-	- Data Manipulation:	dplyr, data.table, stringr, lubridate, tidytext
-	- Text Analysis:	syuzhet, quanteda, tm, manifestoR
-	- Visualization:	modelsummary, ggplot2, ggpubr, ggdendro, wordcloud, wordcloud2
-- ManifestoR API Key:		https://manifesto-project.wzb.eu/
-- 2019 Chapel Hill Expert Hill:	https://www.chesdata.eu/2019-chapel-hill-expert-survey
+	- Data Collection:		rtweet
+	- Data Manipulation:		dplyr, data.table, stringr, lubridate, tidytext
+	- Text Analysis:		syuzhet, quanteda, tm, manifestoR
+	- Visualization:		modelsummary, ggplot2, ggpubr, ggdendro, wordcloud, wordcloud2
+- ManifestoR API Key:			https://manifesto-project.wzb.eu/
+- 2019 Chapel Hill Expert Survey:	https://www.chesdata.eu/2019-chapel-hill-expert-survey
 
 ## Notes
 - Due to the terms and conditions of Twitter, the data sets cannot be uploaded fully on GitHub. However the political marketing data set can be fully reproduced by using the download.R script in the code section.
