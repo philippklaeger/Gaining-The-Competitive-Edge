@@ -1,20 +1,16 @@
-# Example of reproducible research workflow 
+# Gaining The Competitive Edge
+### Analyzing the Importance and Potential Success Drivers of Political Marketing Strategies Regarding the 2021 Federal Elections in Germany
 
-This is a basic example repository using Gnu make for a reproducible research workflow, as described in detail here: [tilburgsciencehub.com](http://tilburgsciencehub.com/). 
+##### Master Thesis Marketing Research
+##### Master Program – M.Sc. Marketing Analytics
+##### Marketing Department Tilburg School of Economics and Management
+##### Tilburg University
 
-The main aim of this to have a basic structure, which can be easily adjusted to use in an actual project.  In this example project, the following is done: 
-1. Download and prepare data
-2. Run some analysis
-3. Present results in a final pdf generated using LaTeX
 
 ## Dependencies
 - R 
 - R packages: 
 	install.packages("stargazer")
-- Gnu make 
-- TeX distribution (I use TeX Live 2019) 
-- For the `makefile` to work, R, Gnu make and the TeX distribution (specifically `pdflatex`) need to be made available in the system path 
-- Detailed installation instructions can be found here: [tilburgsciencehub.com](http://tilburgsciencehub.com/)
 
 
 ## Notes
