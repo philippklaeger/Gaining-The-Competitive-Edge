@@ -40,14 +40,10 @@ Figure 2: Topic-specific tweet stances for the topics Corona, Environment and Di
 ## Dependencies
 - R 
 - R packages:
-	- Data Collection
-	rtweet
-	- Data Manipulation
-	dplyr, data.table, stringr, lubridate, tidytext
-	- Text Analysis
-	syuzhet, quanteda, tm, manifestoR
-	- Visualization
-	modelsummary, ggplot2, ggpubr, ggdendro, wordcloud, wordcloud2
+	- Data Collection:	rtweet
+	- Data Manipulation:	dplyr, data.table, stringr, lubridate, tidytext
+	- Text Analysis:	syuzhet, quanteda, tm, manifestoR
+	- Visualization:	modelsummary, ggplot2, ggpubr, ggdendro, wordcloud, wordcloud2
 - ManifestoR API Key:
 	https://manifesto-project.wzb.eu/
 - 2019 Chapel Hill Expert Hill
