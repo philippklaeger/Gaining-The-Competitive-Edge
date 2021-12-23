@@ -24,14 +24,14 @@ This paper argues that political marketing should be considered a capable tool t
 
 In addition to the content stances, the measurements of sentiments, emotions, and text similarity can be used to validly determine party positioning (Silva & Proksch 2021, Burst et al. 2021, Jolly et al. 2019, Laver et al. 2002). Based on the work of Giavazzi et al. (2020), which identified a shift in text similarity between German political parties following terror attacks, this research conducted a topic-specific analysis to identify similar shifts in central election topics. For this purpose, this research collected two large data sets from Twitter and the 2017- and 2021-party programs of the six major political parties. The first data set represents the posts of verified 2021 candidate accounts from the six major parties within the campaign period (Dec. 2020 – Sep. 2021). The second data set represents the posts from user-generated discussions based on election-relevant hashtag queries within the last four weeks before the elections. As initial positioning of parties, the Chapel Hill Expert Survey (2019) was deployed for the left-to-right positioning of the six major political parties and assigned to the texts of the respective 2017 party programs (Jolly et al. 2019).
 
-
+![General Stances](https://user-images.githubusercontent.com/80161087/147256429-82abd319-abdc-4fe3-ad77-1606f4113ccc.jpg)
 
 Figure 1: Relative Positioning of Major Political Parties based on their general wordscores (own rep.).
 
 In line with current research, the two incumbent government parties (CDU/CSU & SPD) have utilized more positive sentiment than the opposition parties (Crabtree et al. 2020). Furthermore, the sentimental and emotive strategy of the fringe parties displays the expected results: whereas the Left exhibits the highest scores for negative sentiment and the emotion sadness, the Alternative (AfD) showcases the lowest score for positive sentiment and the highest scores for the emotions anger, disgust, and fear in their political marketing activities. The text-similarity of the six major political parties has continuously and considerably increased between 2017 and 2021 party programs and campaign period tweets - thus resulting in the most similar relative positioning for all parties for the campaign period tweets. The topic-specific stance analysis detected several shifts in language by the parties. The topic of Corona was discussed with more right-wing language by all parties compared to their overall stance position. This shift was arguably led by the Liberal Democrats (FDP) and the Alternative (AfD) based on tweet volume. In contrast, the topic Environment was discussed with more left-wing language by all parties compared to their overall stance position. This shift was arguably led by the Greens based on tweet volume.
 As a unique contribution to political science, this research conducted a comprehensive text analysis of the party activities on Twitter regarding the 2021 Federal Elections in Germany. Additionally, this research derived practical, data-driven recommendations for potential success drivers for political marketing regarding elections. These include the public candidate image, emotive strategies, and practical techniques to manipulate voter behavior.
 
-
+![Topic Stances](https://user-images.githubusercontent.com/80161087/147256468-b10e7736-90b9-4b69-93b6-fe5a61b09b75.jpg)
 
 Figure 2: Topic-specific tweet stances for the topics Corona, Environment and Digitization in comparison to the respective overall stances for all tweets (own rep.).
 
@@ -50,7 +50,7 @@ Figure 2: Topic-specific tweet stances for the topics Corona, Environment and Di
 ## Notes
 - Due to the terms and conditions of Twitter, the data sets cannot be uploaded fully on GitHub. However the political marketing data set can be fully reproduced by using the download.R script in the code section.
 - Reproducibility: encoding readers must be considerate of German special characters (e.g., ä) to attain an undistorted display of the data.
-- Introduction into German politics (parties & electoral system) can be found in the appendix of the thesis file
+- Introduction into German politics (parties & electoral system) can be found in the appendix of the thesis file.
 
 ---
 
