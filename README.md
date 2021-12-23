@@ -1,8 +1,6 @@
 # Gaining The Competitive Edge
 ### Analyzing the Importance and Potential Success Drivers of Political Marketing Strategies Regarding the 2021 Federal Elections in Germany
 
-![background](https://user-images.githubusercontent.com/80161087/147277170-8121893c-f3ac-42e8-9657-7f824ad88f57.png)
-
 Master Thesis Marketing Research
 
 Master Program – M.Sc. Marketing Analytics
@@ -10,6 +8,9 @@ Master Program – M.Sc. Marketing Analytics
 Marketing Department Tilburg School of Economics and Management
 
 Tilburg University (TiU)
+
+
+![background](https://user-images.githubusercontent.com/80161087/147277170-8121893c-f3ac-42e8-9657-7f824ad88f57.png)
 
 
 ## Abstract
