@@ -48,8 +48,9 @@ Figure 2: Topic-specific tweet stances for the topics Corona, Environment and Di
 - 2019 Chapel Hill Expert Hill:	https://www.chesdata.eu/2019-chapel-hill-expert-survey
 
 ## Notes
-- reproducibility: encoding readers must be considerate of German special characters (e.g., ä) to attain an undistorted display of the data.
-- introduction into German politics (parties & electoral system) can be found in the appendix of the thesis file
+- Due to the terms and conditions of Twitter, the data sets cannot be uploaded fully on GitHub. However the political marketing data set can be fully reproduced by using the download.R script in the code section.
+- Reproducibility: encoding readers must be considerate of German special characters (e.g., ä) to attain an undistorted display of the data.
+- Introduction into German politics (parties & electoral system) can be found in the appendix of the thesis file
 
 ---
 
