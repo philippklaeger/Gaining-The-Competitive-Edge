@@ -3,10 +3,43 @@
 ==========================================================
 
 
-I. Download
+I. DOWNLOAD
+1. Procedure
+This download script utilizes the crowdsourcing project "rtweet". This package enables direct access to the Twitter Search API.
+Link: https://github.com/ropensci/rtweet
+
+2. Setup
+The "rtweet" package requires an authenfication token. It can be acquired with creating an app or logging in with account credentials.
+To setup your token, the function "auth_setup_default()" will open the window for you.
+
+3. Conduct
+All operations in this script are done in strict accordance with Twitter's Developers Terms.
+Link: https://developer.twitter.com/en/developer-terms/more-on-restricted-use-cases
+
+4. Data I - Political Marketing
+This code returns the (if existing) 1000 most recent posts made by the official accounts of parties and lead candidates.
+Maximum: The Twitter Search API currently does not allow more than the last 3200 posts for each timeline
+Each line represents a party, each line follows the same scheme:
+(1) federal party account
+(2) faction of party in the Bundestag
+(3) candidates from official candidate list
+
+5. Data II - User-Generated Discussions
+The seeds for relevant hashtags are mainly derived from the "Das Social Media Dashboard zur Bundestagswahl 2021",
+a real-time social media dashboard made by the German newspaper "Tagesspiegel" in cooperation with
+Democracy Reporting International and sponsored by the Mercator Foundation.
+The dashboard gives information which hashtags are most oftenly used by the parties' lead candidates (1) and
+which hashtags are most oftenly used mentioning the parties lead candidates (2) on Twitter.
+The hashtags were firstly collected on September 2nd for the first collection of data.
 
 
-II. Cleaning & Preparation
+==========================================================
 
 
-III. Analysis
+II. CLEANING & PREPARATION
+
+
+==========================================================
+
+
+III. ANALYSIS
