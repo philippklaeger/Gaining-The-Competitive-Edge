@@ -3,7 +3,6 @@
 ==========================================================
 
 
-I. DOWNLOAD
 1. Procedure
 This download script utilizes the crowdsourcing project "rtweet". This package enables direct access to the Twitter Search API.
 Link: https://github.com/ropensci/rtweet
@@ -31,15 +30,3 @@ Democracy Reporting International and sponsored by the Mercator Foundation.
 The dashboard gives information which hashtags are most oftenly used by the parties' lead candidates (1) and
 which hashtags are most oftenly used mentioning the parties lead candidates (2) on Twitter.
 The hashtags were firstly collected on September 2nd for the first collection of data.
-
-
-==========================================================
-
-
-II. CLEANING & PREPARATION
-
-
-==========================================================
-
-
-III. ANALYSIS
