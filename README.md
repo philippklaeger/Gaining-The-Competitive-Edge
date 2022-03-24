@@ -10,7 +10,8 @@ Marketing Department Tilburg School of Economics and Management
 
 Tilburg University (TiU)
 
-![background](https://user-images.githubusercontent.com/80161087/147277170-8121893c-f3ac-42e8-9657-7f824ad88f57.png)
+
+![Gaining The Competitive Edge](https://user-images.githubusercontent.com/80161087/160028555-274df87f-4449-4934-ac74-94149ec3aaea.png)
 
 
 ## Abstract
