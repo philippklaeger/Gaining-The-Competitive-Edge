@@ -1,5 +1,6 @@
 # Gaining The Competitive Edge
-### Analyzing the Importance and Potential Success Drivers of Political Marketing Strategies Regarding the 2021 Federal Elections in Germany
+### Analyzing Candidate-Party Congruence and Issue Salience of Campaign Winners in 2021 German Federal Elections
+
 
 Master Thesis Marketing Research
 
@@ -13,7 +14,7 @@ Tilburg University (TiU)
 
 
 ## Abstract
-Based on the work of Giavazzi et al. (2020), which identified a shift in text similarity between German political parties following terror attacks, this research conducted a topic-specific analysis to identify similar shifts in central election topics. The topic-specific stance analysis detected several shifts in language by the parties. The topic of Corona was discussed with more right-wing language by all parties compared to their overall stance position. In contrast, the topic Environment was discussed with more left-wing language by all parties compared to their overall stance position. For this purpose, this research collected two large data sets from Twitter and the 2017- and 2021-party programs of the six major political parties. As a unique contribution to political marketing research, this paper conducted a comprehensive text analysis of the party activities on Twitter regarding the 2021 Federal Elections in Germany. Additionally, this research derived practical, data-driven recommendations for potential success drivers for political marketing regarding elections. These recommendations address the public candidate image, emotive strategies, and practical techniques to manipulate voter behavior.
+xxx
 
 ---
 
@@ -22,8 +23,8 @@ Based on the work of Giavazzi et al. (2020), which identified a shift in text si
 - R packages:
 	- Data Collection:		rtweet
 	- Data Manipulation:		dplyr, data.table, stringr, lubridate, tidytext
-	- Text Analysis:		syuzhet, quanteda, tm, manifestoR
-	- Visualization:		modelsummary, ggplot2, ggpubr, ggdendro, wordcloud, wordcloud2
+	- Text Analysis:		quanteda, manifestoR
+	- Visualization:		ggplot2, ggpubr, wordcloud, wordcloud2
 - ManifestoR API Key:			https://manifesto-project.wzb.eu/
 - 2019 Chapel Hill Expert Survey:	https://www.chesdata.eu/2019-chapel-hill-expert-survey
 
