@@ -1,7 +1,7 @@
 # Gaining The Competitive Edge
 ### Analyzing Candidate-Party Congruence and Issue Salience of Campaign Winners in the 2021 German Federal Elections
 
-![Gaining The Competitive Edge](https://user-images.githubusercontent.com/80161087/160028555-274df87f-4449-4934-ac74-94149ec3aaea.png)
+![Gaining The Competitive Edge](https://user-images.githubusercontent.com/80161087/160180333-29a5f6dd-282b-4e38-ad5d-a8b8848e936a.png)
 
 ## Abstract
 xxx
